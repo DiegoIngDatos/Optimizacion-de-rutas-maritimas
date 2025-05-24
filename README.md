@@ -28,3 +28,9 @@ Calado del barco
 Distancia total recorrida
 Tiempo de ejecución
 Consumo de memoria
+
+
+![descarga](https://github.com/user-attachments/assets/7d4a1b88-eecd-438e-b89f-de22b2d6ed24)
+
+
+
